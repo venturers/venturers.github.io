@@ -1,6 +1,6 @@
 # About Venture
 
-Venture is
+Venture is a web application where UHM students and can find activities and events to do with others on the island. 
 
 ![](images/homepage1.PNG)
 
