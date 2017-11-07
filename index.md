@@ -4,8 +4,6 @@ Venture is a web application where UHM students and can find activities and even
 
 ![](images/homepage1.PNG)
 
-![](images/homepage2.PNG)
-
 This is the profile page.
 
 ![](images/profilepage1.PNG)
