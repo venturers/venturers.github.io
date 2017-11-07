@@ -1,7 +1,7 @@
 # About Venture
 
-![](images/homepage1.png)
-![](images/homepage2.png)
+![](images/homepage1.PNG)
+![](images/homepage2.PNG)
 
 ![](images/profilepage1.png)
 ![](images/profilepage2.png)
