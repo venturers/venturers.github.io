@@ -16,6 +16,6 @@ This is the search page. You can filter activities by keywords or your interests
 
 ![](images/searchpage1.PNG)
 
-You can see the details of each event, including the date, time, and the number of people that have signed up to go to the event.
+You can see the details of each event, including the date, time, and the number of people that have signed up for the event.
 
 ![](images/searchpage2.PNG)
