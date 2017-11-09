@@ -16,6 +16,6 @@ You can filter activities by keywords or your interests on the search page:
 
 ![](images/searchpage1.PNG)
 
-You can see the details of each event, including the date, time, and the number of people that have signed up for the event:
+You can see the details of each event, including the date and time of the event and the number of people that have signed up for it:
 
 ![](images/searchpage2.PNG)
