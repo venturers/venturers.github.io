@@ -1,6 +1,6 @@
 # About Venture
 
-* Deployment: http://ventureuhmanoa.meteorapp.com/
+* Deployment: <http://ventureuhmanoa.meteorapp.com/>
 * M1: https://github.com/venturers/venture/projects/1
 * M2: https://github.com/venturers/venture/projects/2
 
