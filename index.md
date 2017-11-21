@@ -6,7 +6,7 @@
 
 Venture is a web application where UHM students can find activities and events to do with others on the island.
 
-![](images/landing.png)
+![](images/homepage-new.png)
 
 Search for events you might like by interests and by keywords:
 
@@ -20,6 +20,10 @@ Create your own profile to allow better event and friend matches:
 
 ![](images/create_profile.png)
 
+See profiles of other people to find friends:
+
+![](images/public_profile.png)
+
 See what events you are scheduled to go to:
 
 ![](images/profilepage2.PNG)
@@ -28,6 +32,12 @@ See the details of each event, including the date and time of the event and the 
 
 ![](images/searchpage2.PNG)
 
+![](images/event-details.PNG)
+![](images/event-details-1.PNG)
+![](images/event-details-2.PNG)
+
 Even create your own event:
 
-![](images/create_event.png)
+![](images/create-event-new.png)
+![](images/create-event-new-1.png)
+![](images/create-event-new-2.png)
