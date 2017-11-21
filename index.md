@@ -38,6 +38,6 @@ See the details of each event, including the date and time of the event and the 
 
 Even create your own event:
 
-![](images/create-event-new.png)
-![](images/create-event-new-1.png)
-![](images/create-event-new-2.png)
+![](images/create-event-new.PNG)
+![](images/create-event-new-1.PNG)
+![](images/create-event-new-2.PNG)
