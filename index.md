@@ -25,9 +25,9 @@ See profiles of other people to find friends:
 
 ![](images/public_profile.png)
 
-See what events you are scheduled to go to:
+See what events you are scheduled to go to and your list of friends:
 
-![](images/profilepage2.PNG)
+![](images/dashboard-1.PNG)
 
 See the details of each event, including the date and time of the event and the number of people that have signed up for it:
 
