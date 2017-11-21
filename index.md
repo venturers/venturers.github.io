@@ -15,6 +15,7 @@ Search for events you might like by interests and by keywords:
 Search for friends you might like to go to events with by name or by common interests:
 
 ![](images/find_friends.png)
+![](images/searchpage2.PNG)
 
 Create your own profile to allow better event and friend matches:
 
@@ -29,8 +30,6 @@ See what events you are scheduled to go to:
 ![](images/profilepage2.PNG)
 
 See the details of each event, including the date and time of the event and the number of people that have signed up for it:
-
-![](images/searchpage2.PNG)
 
 ![](images/event-details.PNG)
 ![](images/event-details-1.PNG)
