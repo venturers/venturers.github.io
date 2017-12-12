@@ -9,7 +9,7 @@
 * [Community Feedback](#community-feedback)
 * [Developer Guide](#developer-guide)
 
-# Overview
+## Overview
 
 Venture is a web application where UHM students can find activities and events to do with others on the island.
 
@@ -48,8 +48,8 @@ Even create your own event:
 ![](images/create-event-new-1.PNG)
 ![](images/create-event-new-2.PNG)
 
-# User Guide
+## User Guide
 
-# Community Feedback
+## Community Feedback
 
-# Developer Guide
+## Developer Guide
