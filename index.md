@@ -1,7 +1,15 @@
-# About Venture
-
+* Github Organization: <https://github.com/venturers>
 * Deployment: <http://ventureuhmanoa.meteorapp.com/>
 * M2: <https://github.com/venturers/venture/projects/2>
+
+# Table of Contents
+
+* [Overview](#overview)
+* [User Guide](#user-guide)
+* [Community Feedback](#community-feedback)
+* [Developer Guide](#developer-guide)
+
+# Overview
 
 Venture is a web application where UHM students can find activities and events to do with others on the island.
 
@@ -39,3 +47,9 @@ Even create your own event:
 ![](images/create-event-new.PNG)
 ![](images/create-event-new-1.PNG)
 ![](images/create-event-new-2.PNG)
+
+# User Guide
+
+# Community Feedback
+
+# Developer Guide
