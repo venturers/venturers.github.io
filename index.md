@@ -125,7 +125,7 @@ Happy Venturing!
 
 ## Community Feedback
 
-"The site works extremely well, looks appealing and has a lot of potential to do great as a stand alone website." -Fellow ICS 314 Student
+"The site works extremely well, looks appealing and has a lot of potential to do great as a stand alone website." -Fellow Student
 
 Other praise from our viewers:
 - Visually and aesthetically appealing
