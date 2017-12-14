@@ -147,12 +147,12 @@ Suggestions from our viewers:
 
 ### Download the Code
 
-* Clone our Github repository at https://github.com/venturers/venture
+* Clone our Github repository at <https://github.com/venturers/venture>
   - if you don't already have a Git Client, SourceTree and Github Desktop are good clients to start with.
 
 ### Install Meteor
 
-* Go to https://www.meteor.com/install to download and install Meteor
+* Go to <https://www.meteor.com/install> to download and install Meteor
 * Once you've installed Meteor, navigate to our project's 'app' folder:
   - for Mac Users on terminal, assuming the venture folder is on the Desktop: cd Desktop/venture/app
 * Now install dependencies with the following command:
@@ -161,7 +161,7 @@ Suggestions from our viewers:
 ### Run the Code
 * Assuming you're still in the 'app' directory, run the following command on terminal: meteor npm run start
 * Wait until you see 'App running at: http://localhost:3000/' appear in your terminal
-* Go to http://localhost:3000/ to see the app run
+* Go to <http://localhost:3000/> to see the app run
 
 ### Modify the System
 * Whenever you make changes to the code, run and test that your feature works
