@@ -152,9 +152,10 @@ Suggestions from our viewers:
 
 ### Install Meteor
 
-* Once you've cloned our code, navigate to our project's 'app' folder:
+* Go to https://www.meteor.com/install to download and install Meteor
+* Once you've installed Meteor, navigate to our project's 'app' folder:
   - for Mac Users on terminal, assuming the venture folder is on the Desktop: cd Desktop/venture/app
-* Now install meteor with the following command:
+* Now install dependencies with the following command:
   - for Mac Users on terminal: meteor npm install
 
 ### Run the Code
