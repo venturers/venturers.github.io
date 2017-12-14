@@ -134,4 +134,6 @@ Happy Venturing!
 
 ## Community Feedback
 
+- I thought the layout was very nice! I love the background images. The advanced search is also a good feature to have, but some of it is not clear, like "transportation" in friends search. I think you guys should specify what that means on the advanced search form. I realize that it means what type of transportation they can provide, but I wasn't clear about that at first.
+
 ## Developer Guide
