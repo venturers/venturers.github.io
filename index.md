@@ -61,6 +61,75 @@ You can even create your own events:
 
 ## User Guide
 
+## User Guide
+
+### Login
+
+To get started on your adventures, login with your UH username and password.
+
+-- Landing Picture Here --
+
+#### Dashboard
+
+Welcome to our site!
+This is your very own personal dashboard.
+This handy page will keep an updated list of your friends and events for you.
+
+-- Dashboard Picture Here --
+
+If you don't have any plans or friends yet, go to a search page to find some!
+
+### Find Events
+
+To find an event you'd like to attend, you can search by the following properties:
+ - keywords (ex: beach, football)
+ - interests (ex: imu cooking, software engineering)
+ - advanced searches (ex: cost of an event, date, and time)
+
+To see a listing of all of the events, press the blue 'Search' button without entering anything into the other fields.
+
+-- Find Picture Here --
+
+### Find Friends
+
+Similar to finding events, you can find friends on our site by searching with the following filters:
+ - name (ex: Billy Bob)
+ - interests (ex: imu cooking, software engineering)
+ - advanced searches (ex: transportation, mutual friends, etc.)
+
+ To see a full list of all of the friends you could possibly make, press the blue 'Search' button without entering anything into the other fields.
+
+-- Find Picture Here --
+
+### Create and Edit Your Own Event
+
+To create your own event, click on the 'Create an Event' tab near the top of the screen and fill in the Event form as best as possible.  Only the 'Name' field is required, but other users are more likely to find and therefore attend an event with more details in it.
+
+-- Create Picture Here --
+
+To edit an event, you must be the one who created it.  If you are the one who created it, navigate to your event's page, and click on the 'Edit Event' button.  This button will take you to an Event form where you can edit your event.
+
+-- Edit Picture Here --
+
+### Viewing and Editing Your Profile Page
+
+To view your public profile page, click on the 'My Profile' tab near the top of the screen.  This tab will take you to the public profile page that everyone will see when they search for friends.  
+
+-- Public Profile Page Here --
+
+To edit your public profile page, click on the button that reads 'Edit Profile'.  Fill up our profile form with as much information as you feel comfortable sharing.  You can even change your profile picture with the URL field.
+
+-- Edit Profile Page Here --
+
+### Comments
+
+Lastly, don't forget to comment on event pages.  
+You can also leave your friends a few nice words on their profile page!
+
+-- Picture Here --
+
+Happy Venturing!
+
 ### Login
 
 ## Community Feedback
