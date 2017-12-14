@@ -134,6 +134,11 @@ Other praise from our viewers:
 - Theme is very nice, matches the website's function
 - Simple to use
 
-
+Suggestions from our viewers:
+- Clarify search criteria ("transportation" in the advanced search for friends)
+- Sort events and friends lists in dashboard
+- Friends can't be removed from the dashboard (you have to search for them to remove them)
+- You cannot delete an event that you created
+- Add a calendar, or notifications of upcoming events, friend requests, comments, etc.
 
 ## Developer Guide
