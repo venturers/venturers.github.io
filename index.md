@@ -125,6 +125,15 @@ Happy Venturing!
 
 ## Community Feedback
 
+"The site works extremely well, looks appealing and has a lot of potential to do great as a stand alone website." -Fellow ICS 314 Student
+
+Other praise from our viewers:
+- Visually and aesthetically appealing
+- Simple, nice layout
+- Easy to navigate
+- Theme is very nice, matches the website's function
+- Simple to use
+
 
 
 ## Developer Guide
