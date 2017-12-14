@@ -21,7 +21,7 @@ Search for events you might like by interests and by keywords:
 
 You can also search for events by location, time, cost, transportation, and mutual friends using the advanced search feature.
 
-![](images/venture-final-event-advanced-search.png)
+![](images/venture-final-events-advanced-search.png)
 
 See the all the matches for your search criteria.
 
