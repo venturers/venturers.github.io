@@ -134,6 +134,8 @@ Happy Venturing!
 
 ## Community Feedback
 
-- I thought the layout was very nice! I love the background images. The advanced search is also a good feature to have, but some of it is not clear, like "transportation" in friends search. I think you guys should specify what that means on the advanced search form. I realize that it means what type of transportation they can provide, but I wasn't clear about that at first.
+- I thought the layout was very nice! I love the background images. The advanced search is also a good feature to have, but some of it is not clear, like "transportation" in friends search. I think you guys should specify what that means on the advanced search form. I realize that it means what type of transportation they can provide, but I wasn't clear about that at first. Anonymous
+
+- I really like how the website looks! I feel like some of the features are missing, like for example you can't delete an event you made, and on the dashboard you can't remove a friend, you have to search for the friend on the search page and then remove them. Just a few small things... But overall, it's a beautiful website! Good job guys! Anonymous
 
 ## Developer Guide
