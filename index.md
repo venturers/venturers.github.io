@@ -49,7 +49,7 @@ See profiles of other people to find friends:
 
 See what events you are scheduled to go to and your list of friends:
 
-![](images/venture-final-dashboard.png)
+![](images/venture-final-dashboard-2.png)
 
 See the details of each event, including the date and time of the event and the number of people that have signed up for it:
 
