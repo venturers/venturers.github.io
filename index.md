@@ -138,4 +138,10 @@ Happy Venturing!
 
 - I really like how the website looks! I feel like some of the features are missing, like for example you can't delete an event you made, and on the dashboard you can't remove a friend, you have to search for the friend on the search page and then remove them. Just a few small things... But overall, it's a beautiful website! Good job guys! Anonymous
 
+- It really has a fresh, young, island-y feel to it that makes you wanna go explore Hawaii. It's also really easy to navigate, and simple to use! On the dashboard, it was a little bit confusing where it said "your events" - I thought it was the events I created, but it's actually the events I'm going to. Maybe you should have different sections for the ones you created and the ones you are going to. But I love it! Very nice!
+
+- I would prefer not to have the big background images, but maybe that's just me. I find it to be a little bit distracting. But overall, it's a very nice, simple website and does what it's supposed to.
+
+- Very modern-looking! Good job with the design! Maybe you could keep the background images more consistent throughout the website. Also, it would help if the events and friends that show up on the dashboard were sorted. But good job!
+
 ## Developer Guide
