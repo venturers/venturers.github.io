@@ -19,11 +19,23 @@ Search for events you might like by interests and by keywords:
 
 ![](images/venture-final-event-search.png)
 
+You can also search for events by location, time, cost, transportation, and mutual friends using the advanced search feature.
+
+![](images/venture-final-event-advanced-search.png)
+
+See the all the matches for your search criteria.
+
 ![](images/venture-final-event-results.png)
 
 Search for friends you might like to go to events with by name or by common interests:
 
 ![](images/venture-final-friend-search.png)
+
+You can also search for friends by location, transportation, and mutual events and friends.
+
+![](images/venture-final-friend-advanced-search.png)
+
+See all the matches for your search criteria.
 
 ![](images/venture-final-friend-results.png)
 
