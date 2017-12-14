@@ -142,3 +142,31 @@ Suggestions from our viewers:
 - Add a calendar, or notifications of upcoming events, friend requests, comments, etc.
 
 ## Developer Guide
+
+### So you think you can develop? Join the team!
+
+### Download the Code
+
+* Clone our Github repository at https://github.com/venturers/venture
+  - if you don't already have a Git Client, SourceTree and Github Desktop are good clients to start with.
+
+### Install Meteor
+
+* Once you've cloned our code, navigate to our project's 'app' folder:
+  - for Mac Users on terminal, assuming the venture folder is on the Desktop: 
+   * cd Desktop/venture/app 
+* Now install meteor with the following command:
+ - for Mac Users on terminal:
+   * meteor npm install
+
+### Run the Code 
+* Assuming you're still in the 'app' directory, run the following command on terminal:
+  - meteor npm run start
+* Wait until you see 'App running at: http://localhost:3000/' appear in your terminal
+* Go to http://localhost:3000/ to see the app run
+
+### Modify the System
+* Whenever you make changes to the code, run and test that your feature works
+* When you are ready to push your new changes to the repository:
+  - commit the code you wrote
+  - push the commit
