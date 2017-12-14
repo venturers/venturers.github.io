@@ -13,40 +13,37 @@
 
 Venture is a web application where UHM students can find activities and events to do with others on the island.
 
-![](images/homepage-new-2.png)
+![](images/venture-final-landing.png)
 
 Search for events you might like by interests and by keywords:
 
-![](images/find_events.png)
-![](images/searchpage2.PNG)
+![](images/venture-final-event-search.png)
+![](images/venture-final-event-results.png)
 
 Search for friends you might like to go to events with by name or by common interests:
 
-![](images/find_friends.png)
+![](images/venture-final-friend-search.png)
+![](images/venture-final-friend-results.png)
 
 Create your own profile to allow better event and friend matches:
 
-![](images/create_profile.png)
+![](images/venture-final-profile-edit.png)
 
 See profiles of other people to find friends:
 
-![](images/public_profile.png)
+![](images/venture-final-profile-page.png)
 
 See what events you are scheduled to go to and your list of friends:
 
-![](images/dashboard-1.PNG)
+![](images/venture-final-dashboard.png)
 
 See the details of each event, including the date and time of the event and the number of people that have signed up for it:
 
-![](images/event-details.PNG)
-![](images/event-details-1.PNG)
-![](images/event-details-2.PNG)
+![](images/venture-final-event-page.png)
 
-Even create your own event:
+You can even create your own events:
 
-![](images/create-event-new.PNG)
-![](images/create-event-new-1.PNG)
-![](images/create-event-new-2.PNG)
+![](images/venture-final-create-event.png)
 
 ## User Guide
 
