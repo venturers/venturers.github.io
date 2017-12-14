@@ -153,15 +153,12 @@ Suggestions from our viewers:
 ### Install Meteor
 
 * Once you've cloned our code, navigate to our project's 'app' folder:
-  - for Mac Users on terminal, assuming the venture folder is on the Desktop: 
-   * cd Desktop/venture/app 
+  - for Mac Users on terminal, assuming the venture folder is on the Desktop: cd Desktop/venture/app
 * Now install meteor with the following command:
- - for Mac Users on terminal:
-   * meteor npm install
+  - for Mac Users on terminal: meteor npm install
 
-### Run the Code 
-* Assuming you're still in the 'app' directory, run the following command on terminal:
-  - meteor npm run start
+### Run the Code
+* Assuming you're still in the 'app' directory, run the following command on terminal: meteor npm run start
 * Wait until you see 'App running at: http://localhost:3000/' appear in your terminal
 * Go to http://localhost:3000/ to see the app run
 
