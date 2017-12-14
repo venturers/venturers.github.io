@@ -18,11 +18,13 @@ Venture is a web application where UHM students can find activities and events t
 Search for events you might like by interests and by keywords:
 
 ![](images/venture-final-event-search.png)
+
 ![](images/venture-final-event-results.png)
 
 Search for friends you might like to go to events with by name or by common interests:
 
 ![](images/venture-final-friend-search.png)
+
 ![](images/venture-final-friend-results.png)
 
 Create your own profile to allow better event and friend matches:
